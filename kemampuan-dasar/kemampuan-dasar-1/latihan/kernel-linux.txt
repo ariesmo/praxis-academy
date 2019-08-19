@@ -1,0 +1,3 @@
+﻿3. untuk mengetahui kerenel linux yang terpasang bisa mengetikkan perintah di terminal dpkg –get-selections | grep linux-image
+
+
