@@ -1,0 +1,49 @@
+﻿PERINTAH TERMINAL
+
+    1. Listing files(ls) : untuk melihat list dari files dalam system linux
+
+root@aris-Lenovo-ideapad-330-14IKB:/home/aris# ls
+Android                date_parse.sh.save  gradlew.bat  settings.gradle.kts
+AndroidStudioProjects  Desktop             keystore     snap
+Apps                   Documents           Music        src
+book.txt               Downloads           newdir       Templates
+build                  examples.desktop    Pictures     test_dir
+build.gradle.kts       gradle              praxis       Videos
+composer.phar          gradlew             Public
+root@aris-Lenovo-ideapad-330-14IKB:/home/aris# 
+
+    2. Creating & Viewing Files (cat) : untuk menampilkan file text. Selain itu juga bisa digunakan untuk copy, menggabungkan dan membuat text baru.
+       
+       cat filename
+       
+    3. Remove (rm) : untuk menghapus file
+       
+       rm filename
+       
+    4. Moving and re-naming files (mv)
+       
+       mv filename new_file_location
+       
+    5. Make Directory (mkdir) : untuk membuat direktori
+       
+       mkdir directoryname
+       
+    6. Remove Directories (rmdir) : untuk menghapus direktori
+       
+       rmdir directoryname
+       
+    7. Renaming Directory (mv) : untuk memindah sekaligus untuk merename direktori
+       
+       mv directoryname newdirectoryname
+       
+    8. The History Command (history) : untuk melihat riwayat / perintah apa saja yang telah kita lakukan di terminal
+       
+       history
+       
+    9. The Clear Command (clear) : untuk memberishkan layar terminal
+       
+       clear
+       
+    10. Installing Software (apt-get) : untuk menginstall program
+       
+       apt-get install 
