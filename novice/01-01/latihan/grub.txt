@@ -1,0 +1,5 @@
+﻿GRUB (Grand Unified Bootloader ) yaitu program kecil yang menampilkan pilihan sistem operasi pada saat proses booting sehingga nantinya dapat melakukan multi boot. GRUB sangat berguna apabila kita menginstall lebih dari satu sistem operasi.
+
+Pilihan GRUB
+
+- Advanced options for ubuntu :  kamu dapat memilih pilihan dalam GRUB ini untuk membantu repair system. Akan ada pilihan mode recovery (recovery mode). 
