@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "latihan_407ea88a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TryCatchExample1",
+            "request": "launch",
+            "mainClass": "TryCatchExample1",
+            "projectName": "latihan_407ea88a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayDimensi",
             "request": "launch",
             "mainClass": "ArrayDimensi"
