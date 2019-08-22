@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Base2",
+            "request": "launch",
+            "mainClass": "Base2",
+            "projectName": "latihan_407ea88a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main3",
+            "request": "launch",
+            "mainClass": "Main3",
+            "projectName": "latihan_407ea88a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Derived",
+            "request": "launch",
+            "mainClass": "Derived",
+            "projectName": "latihan_407ea88a"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "Main",
