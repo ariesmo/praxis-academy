@@ -1,0 +1,256 @@
+[2019-08-27 11:46:12.161] [exthost] [info] extension host started
+[2019-08-27 11:46:12.200] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onWebviewPanel:markdown.preview"}
+[2019-08-27 11:46:12.200] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-08-27 11:46:12.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:12.361] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 11:46:12.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:12.402] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 11:46:12.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:12.514] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 11:46:12.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:12.662] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 11:46:12.671] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:12.671] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 11:46:12.947] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:12.947] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 11:46:12.977] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:12.977] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 11:46:14.868] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:46:14.868] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 11:46:16.238] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:46:16.238] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 11:46:16.385] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:46:16.385] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 11:46:16.670] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:46:16.670] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 11:46:28.985] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:.classpath"}
+[2019-08-27 11:46:28.985] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 11:46:29.177] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:46:29.177] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 11:46:29.799] [exthost] [info] eager extensions activated
+[2019-08-27 11:52:00.486] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 11:52:00.486] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 11:52:01.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-27 11:52:01.037] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-08-27 11:52:01.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-27 11:52:01.260] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-08-27 11:52:01.509] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-08-27 11:52:01.509] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-08-27 13:31:36.629] [exthost] [info] extension host started
+[2019-08-27 13:31:36.643] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:36.643] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 13:31:36.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:36.670] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 13:31:36.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:36.798] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 13:31:37.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:37.151] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 13:31:37.159] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:37.159] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 13:31:37.542] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:37.542] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 13:31:37.627] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:37.627] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 13:31:39.013] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:31:39.013] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 13:31:40.831] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:31:40.831] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 13:31:41.066] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:31:41.066] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 13:31:41.327] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:31:41.327] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 13:31:45.926] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 13:31:45.926] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 13:32:14.872] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:32:14.872] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 13:32:15.312] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:32:15.312] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 13:32:17.214] [exthost] [info] eager extensions activated
+[2019-08-27 13:52:15.134] [exthost] [info] extension host started
+[2019-08-27 13:52:15.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:15.147] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 13:52:15.169] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:15.169] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 13:52:15.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:15.264] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 13:52:15.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:15.398] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 13:52:15.420] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:15.420] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 13:52:15.834] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:15.834] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 13:52:15.983] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:15.983] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 13:52:17.416] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 13:52:17.416] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 13:52:20.379] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:52:20.379] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 13:52:20.658] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:52:20.658] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 13:52:20.862] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:52:20.862] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 13:52:27.372] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-maven {"startup":true,"activationEvent":"workspaceContainsTimeout:**/pom.xml"}
+[2019-08-27 13:52:27.372] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-maven-0.18.2/dist/extension
+[2019-08-27 13:52:29.474] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 13:52:29.474] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 13:52:52.549] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:.classpath"}
+[2019-08-27 13:52:52.549] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 13:52:52.835] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 13:52:52.835] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 13:52:53.453] [exthost] [info] eager extensions activated
+[2019-08-27 14:40:57.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onWebviewPanel:markdown.preview"}
+[2019-08-27 14:40:57.249] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-08-27 14:41:11.331] [exthost] [info] extension host started
+[2019-08-27 14:41:11.348] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:11.348] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 14:41:11.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:11.469] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 14:41:11.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:11.556] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 14:41:11.669] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:11.669] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 14:41:11.685] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:11.685] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 14:41:11.955] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:11.955] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 14:41:12.040] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:12.040] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 14:41:13.342] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 14:41:13.342] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 14:41:14.777] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 14:41:14.777] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 14:41:14.902] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 14:41:14.902] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 14:41:15.055] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 14:41:15.055] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 14:41:18.994] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 14:41:18.994] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 14:41:37.997] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 14:41:37.997] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 14:41:38.195] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 14:41:38.195] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 14:41:39.991] [exthost] [info] eager extensions activated
+[2019-08-27 15:05:47.914] [exthost] [info] extension host started
+[2019-08-27 15:05:47.928] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:05:47.928] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 15:05:48.044] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:05:48.044] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 15:05:48.231] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:05:48.231] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 15:05:48.321] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:05:48.321] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 15:05:48.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:48.542] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 15:05:48.674] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:48.674] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 15:05:48.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:48.786] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 15:05:49.020] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:49.020] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 15:05:49.036] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:49.036] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 15:05:49.314] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:49.314] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 15:05:49.376] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:49.376] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 15:05:50.686] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:05:50.686] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 15:06:04.885] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:.classpath"}
+[2019-08-27 15:06:04.885] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 15:06:05.017] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 15:06:05.017] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 15:06:05.544] [exthost] [info] eager extensions activated
+[2019-08-27 15:06:35.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onWebviewPanel:markdown.preview"}
+[2019-08-27 15:06:35.684] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-08-27 15:06:37.934] [exthost] [info] extension host started
+[2019-08-27 15:06:37.964] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:06:37.964] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 15:06:38.094] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:06:38.094] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 15:06:38.214] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:06:38.214] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 15:06:38.255] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:06:38.255] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 15:06:38.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.397] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 15:06:38.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.400] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 15:06:38.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.465] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 15:06:38.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.584] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 15:06:38.589] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.589] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 15:06:38.599] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.599] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 15:06:38.600] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.600] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 15:06:38.870] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:06:38.870] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 15:06:50.348] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 15:06:50.348] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 15:06:50.479] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 15:06:50.479] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 15:06:51.187] [exthost] [info] eager extensions activated
+[2019-08-27 15:39:36.289] [exthost] [info] extension host started
+[2019-08-27 15:39:36.304] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:39:36.304] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 15:39:36.539] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:39:36.539] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 15:39:36.849] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:39:36.849] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 15:39:36.990] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:39:36.990] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 15:39:37.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:37.212] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 15:39:37.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:37.238] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 15:39:37.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:37.383] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 15:39:37.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:37.523] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 15:39:37.541] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:37.541] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 15:39:37.892] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:37.892] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 15:39:37.957] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:37.957] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 15:39:39.415] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:39:39.415] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 15:40:16.402] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:.classpath"}
+[2019-08-27 15:40:16.402] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 15:40:16.804] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 15:40:16.804] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 15:40:18.014] [exthost] [info] eager extensions activated
+[2019-08-27 15:40:30.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onWebviewPanel:markdown.preview"}
+[2019-08-27 15:40:30.528] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-08-27 15:40:43.241] [exthost] [info] extension host started
+[2019-08-27 15:40:43.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:43.262] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 15:40:43.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:43.293] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 15:40:43.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:43.434] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 15:40:43.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:43.786] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 15:40:43.813] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:43.813] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-08-27 15:40:44.003] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:44.003] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-08-27 15:40:44.055] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:44.055] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-27 15:40:45.782] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-08-27 15:40:45.782] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-08-27 15:40:49.783] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:40:49.783] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 15:40:50.031] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:40:50.031] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/dist/intellicode
+[2019-08-27 15:40:50.407] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:40:50.407] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 15:40:50.551] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":false,"activationEvent":"onLanguage:java"}
+[2019-08-27 15:40:50.551] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 15:41:12.990] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:.classpath"}
+[2019-08-27 15:41:12.990] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 15:41:13.141] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 15:41:13.141] [exthost] [info] ExtensionService#loadCommonJSModule /home/aris/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 15:41:13.870] [exthost] [info] eager extensions activated

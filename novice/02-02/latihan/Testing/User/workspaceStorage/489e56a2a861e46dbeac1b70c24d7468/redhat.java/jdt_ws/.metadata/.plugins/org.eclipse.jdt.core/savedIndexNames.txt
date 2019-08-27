@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+/home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/489e56a2a861e46dbeac1b70c24d7468/redhat.java/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+1932256720.index
+1181043305.index
+1486231522.index
+3485447135.index
+2952592477.index
+2217111782.index
+3610405542.index
+646308851.index
+3842426239.index
+522281378.index
+3691664190.index
+2695373068.index
+754871822.index

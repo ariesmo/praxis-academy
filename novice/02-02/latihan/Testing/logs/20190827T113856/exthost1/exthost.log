@@ -1,0 +1,24 @@
+[2019-08-27 11:39:05.276] [exthost] [info] extension host started
+[2019-08-27 11:39:05.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:39:05.293] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-27 11:39:05.418] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:39:05.418] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-27 11:39:05.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:39:05.574] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-27 11:39:05.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-27 11:39:05.687] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-27 11:39:05.705] [exthost] [info] ExtensionService#_doActivateExtension redhat.java {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:39:05.706] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/redhat.java-0.47.0/dist/extension
+[2019-08-27 11:39:05.820] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-pack {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:39:05.820] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscjava.vscode-java-pack-0.7.1/out/extension
+[2019-08-27 11:39:06.054] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:39:06.054] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscjava.vscode-java-debug-0.21.0/dist/extension
+[2019-08-27 11:39:06.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onCommand:markdown.showPreview"}
+[2019-08-27 11:39:06.313] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-08-27 11:39:07.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-08-27 11:39:07.471] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-08-27 11:39:25.906] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency {"startup":true,"activationEvent":"workspaceContains:.classpath"}
+[2019-08-27 11:39:25.906] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscjava.vscode-java-dependency-0.5.1/dist/extension
+[2019-08-27 11:39:26.099] [exthost] [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test {"startup":true,"activationEvent":"workspaceContains:build.gradle"}
+[2019-08-27 11:39:26.099] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscjava.vscode-java-test-0.19.0/dist/extension
+[2019-08-27 11:39:26.870] [exthost] [info] eager extensions activated

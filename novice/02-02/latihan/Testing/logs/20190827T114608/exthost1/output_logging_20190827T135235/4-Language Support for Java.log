@@ -1,0 +1,123 @@
+WARNING: Using incubator modules: jdk.incubator.httpclient
+[Warn  - 1:52:52 PM] Aug 27, 2019, 1:52:52 PM Synchronize project Testing failed due to an error while importing the root project.
+org.eclipse.buildship.core.internal.GradlePluginsRuntimeException: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+org.eclipse.buildship.core.internal.ImportRootProjectException: org.eclipse.buildship.core.internal.GradlePluginsRuntimeException: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.run(ImportRootProjectOperation.java:52)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.runInToolingApi(DefaultGradleBuild.java:222)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:57)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2295)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2322)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:38)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.run(DefaultGradleBuild.java:189)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.synchronize(DefaultGradleBuild.java:97)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.synchronize(DefaultGradleBuild.java:83)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.startSynchronization(GradleProjectImporter.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importDir(GradleProjectImporter.java:98)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.lambda$0(GradleProjectImporter.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1081)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importToWorkspace(GradleProjectImporter.java:90)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:148)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:138)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:260)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.buildship.core.internal.GradlePluginsRuntimeException: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.buildship.core.internal.workspace.DefaultWorkspaceOperations.createProject(DefaultWorkspaceOperations.java:130)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.importRootProject(ImportRootProjectOperation.java:94)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.access$300(ImportRootProjectOperation.java:38)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation$1.run(ImportRootProjectOperation.java:68)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2295)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.runInWorkspace(ImportRootProjectOperation.java:57)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.run(ImportRootProjectOperation.java:50)
+	... 19 more
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:267)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:251)
+	at org.eclipse.buildship.core.internal.workspace.DefaultWorkspaceOperations.createProject(DefaultWorkspaceOperations.java:115)
+	... 26 more
+
+[Warn  - 1:52:52 PM] Aug 27, 2019, 1:52:52 PM Synchronize project Testing failed due to an error while importing the root project.
+org.eclipse.buildship.core.internal.GradlePluginsRuntimeException: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+org.eclipse.buildship.core.internal.ImportRootProjectException: org.eclipse.buildship.core.internal.GradlePluginsRuntimeException: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.run(ImportRootProjectOperation.java:52)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.runInToolingApi(DefaultGradleBuild.java:222)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager$WorkspaceRunnableAdapter.run(DefaultToolingApiOperationManager.java:57)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2295)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2322)
+	at org.eclipse.buildship.core.internal.operation.DefaultToolingApiOperationManager.run(DefaultToolingApiOperationManager.java:38)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild$SynchronizeOperation.run(DefaultGradleBuild.java:189)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.synchronize(DefaultGradleBuild.java:97)
+	at org.eclipse.buildship.core.internal.DefaultGradleBuild.synchronize(DefaultGradleBuild.java:83)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.startSynchronization(GradleProjectImporter.java:164)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importDir(GradleProjectImporter.java:98)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.lambda$0(GradleProjectImporter.java:90)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1081)
+	at org.eclipse.jdt.ls.core.internal.managers.GradleProjectImporter.importToWorkspace(GradleProjectImporter.java:90)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:148)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:138)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:260)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.buildship.core.internal.GradlePluginsRuntimeException: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.buildship.core.internal.workspace.DefaultWorkspaceOperations.createProject(DefaultWorkspaceOperations.java:130)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.importRootProject(ImportRootProjectOperation.java:94)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.access$300(ImportRootProjectOperation.java:38)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation$1.run(ImportRootProjectOperation.java:68)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2295)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.runInWorkspace(ImportRootProjectOperation.java:57)
+	at org.eclipse.buildship.core.internal.workspace.ImportRootProjectOperation.run(ImportRootProjectOperation.java:50)
+	... 19 more
+Caused by: org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:173)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:57)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:267)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:251)
+	at org.eclipse.buildship.core.internal.workspace.DefaultWorkspaceOperations.createProject(DefaultWorkspaceOperations.java:115)
+	... 26 more
+
+[Error - 2:18:02 PM] Request textDocument/definition failed.
+Error: The received response has neither a result nor an error property.
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14185
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14266
+    at Immediate.module.exports.k.size.setImmediate (/home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14283)
+    at runCallback (timers.js:694:18)
+    at tryOnImmediate (timers.js:665:5)
+    at processImmediate (timers.js:647:5)
+[Error - 2:20:42 PM] Request textDocument/definition failed.
+Error: The received response has neither a result nor an error property.
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14185
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14266
+    at Immediate.module.exports.k.size.setImmediate (/home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14283)
+    at runCallback (timers.js:694:18)
+    at tryOnImmediate (timers.js:665:5)
+    at processImmediate (timers.js:647:5)
+[Error - 2:21:11 PM] Request textDocument/definition failed.
+Error: The received response has neither a result nor an error property.
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14185
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14266
+    at Immediate.module.exports.k.size.setImmediate (/home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14283)
+    at runCallback (timers.js:694:18)
+    at tryOnImmediate (timers.js:665:5)
+    at processImmediate (timers.js:647:5)
+[Error - 2:24:09 PM] Request textDocument/definition failed.
+Error: The received response has neither a result nor an error property.
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14185
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14266
+    at Immediate.module.exports.k.size.setImmediate (/home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14283)
+    at runCallback (timers.js:694:18)
+    at tryOnImmediate (timers.js:665:5)
+    at processImmediate (timers.js:647:5)
+[Error - 2:37:05 PM] Request textDocument/definition failed.
+Error: The received response has neither a result nor an error property.
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14185
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14266
+    at Immediate.module.exports.k.size.setImmediate (/home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14283)
+    at runCallback (timers.js:694:18)
+    at tryOnImmediate (timers.js:665:5)
+    at processImmediate (timers.js:647:5)

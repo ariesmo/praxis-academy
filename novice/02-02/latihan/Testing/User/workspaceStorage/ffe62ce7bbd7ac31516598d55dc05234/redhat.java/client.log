@@ -1,0 +1,20 @@
+{ message:
+   'Starting Java server with: /root/.sdkman/candidates/java/current/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /root/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /root/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/ffe62ce7bbd7ac31516598d55dc05234/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 11:39:11.531' }
+{ message:
+   'Starting Java server with: /usr/lib/jvm/java-11-openjdk-amd64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /home/aris/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /home/aris/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/ffe62ce7bbd7ac31516598d55dc05234/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 11:46:19.517' }
+{ message:
+   'Starting Java server with: /usr/lib/jvm/java-11-openjdk-amd64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /home/aris/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /home/aris/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/ffe62ce7bbd7ac31516598d55dc05234/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 13:52:34.336' }
+{ message:
+   'Starting Java server with: /usr/lib/jvm/java-11-openjdk-amd64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /home/aris/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /home/aris/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/ffe62ce7bbd7ac31516598d55dc05234/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 15:05:55.747' }
+{ message:
+   'Starting Java server with: /usr/lib/jvm/java-11-openjdk-amd64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /home/aris/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /home/aris/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/ffe62ce7bbd7ac31516598d55dc05234/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 15:39:47.514' }

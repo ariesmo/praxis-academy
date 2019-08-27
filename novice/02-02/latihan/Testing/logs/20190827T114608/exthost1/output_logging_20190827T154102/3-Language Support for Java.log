@@ -1,0 +1,9 @@
+WARNING: Using incubator modules: jdk.incubator.httpclient
+[Error - 3:42:09 PM] Request textDocument/definition failed.
+Error: The received response has neither a result nor an error property.
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14185
+    at /home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14266
+    at Immediate.module.exports.k.size.setImmediate (/home/aris/.vscode/extensions/redhat.java-0.47.0/dist/extension.js:1:14283)
+    at runCallback (timers.js:694:18)
+    at tryOnImmediate (timers.js:665:5)
+    at processImmediate (timers.js:647:5)

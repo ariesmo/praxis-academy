@@ -1,0 +1,12 @@
+{ message:
+   'Starting Java server with: /usr/lib/jvm/java-11-openjdk-amd64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /home/aris/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /home/aris/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/489e56a2a861e46dbeac1b70c24d7468/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 14:41:17.724' }
+{ message:
+   'Starting Java server with: /usr/lib/jvm/java-11-openjdk-amd64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /home/aris/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /home/aris/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/489e56a2a861e46dbeac1b70c24d7468/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 15:06:39.549' }
+{ message:
+   'Starting Java server with: /usr/lib/jvm/java-11-openjdk-amd64/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication -jar /home/aris/.vscode/extensions/redhat.java-0.47.0/server/plugins/org.eclipse.equinox.launcher_1.5.500.v20190715-1310.jar -configuration /home/aris/.vscode/extensions/redhat.java-0.47.0/server/config_linux -data /home/aris/praxis/novice/02-02/latihan/Testing/User/workspaceStorage/489e56a2a861e46dbeac1b70c24d7468/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2019-08-27 15:40:52.815' }
