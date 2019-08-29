@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SynchronizedAndWait",
+            "request": "launch",
+            "mainClass": "Concurrent.SynchronizedAndWait",
+            "projectName": "Concurrent"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadLocalExample",
+            "request": "launch",
+            "mainClass": "Concurrent.ThreadLocalExample",
+            "projectName": "Concurrent"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConsumerProducer",
+            "request": "launch",
+            "mainClass": "Concurrent.ConsumerProducer",
+            "projectName": "Concurrent"
+        }
+    ]
+}

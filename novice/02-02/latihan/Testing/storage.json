@@ -1411,14 +1411,14 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/aris/praxis/novice/02-02/latihan/Testing",
-            "backupPath": "/home/aris/praxis/novice/02-02/latihan/Testing/Backups/47cdda9e4efbd203079d361f76d5766c",
+            "folder": "file:///home/aris/praxis/novice/01-04/latihan/Bicycle",
+            "backupPath": "/home/aris/praxis/novice/02-02/latihan/Testing/Backups/b56353cfb25b8d1738bc624eb63fa90d",
             "uiState": {
-                "mode": 1,
-                "x": 171,
-                "y": 57,
-                "width": 1024,
-                "height": 711
+                "mode": 0,
+                "x": 49,
+                "y": 55,
+                "width": 1317,
+                "height": 713
             }
         },
         "openedWindows": []

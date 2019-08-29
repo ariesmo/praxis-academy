@@ -7,3 +7,8 @@
 [2019-08-27 13:46:45.457] [main] [info] update#setState idle
 [2019-08-27 14:46:39.439] [main] [info] update#setState checking for updates
 [2019-08-27 14:46:41.613] [main] [info] update#setState idle
+[2019-08-27 15:46:39.467] [main] [info] update#setState checking for updates
+[2019-08-27 15:46:46.076] [main] [info] update#setState idle
+[2019-08-27 16:46:39.594] [main] [info] update#setState checking for updates
+[2019-08-27 16:46:41.259] [main] [info] update#setState idle
+[2019-08-27 17:01:13.111] [main] [error] [storage state.vscdb] backup(): Error: EACCES: permission denied, open '/home/aris/praxis/novice/02-02/latihan/Testing/User/globalStorage/state.vscdb.backup'

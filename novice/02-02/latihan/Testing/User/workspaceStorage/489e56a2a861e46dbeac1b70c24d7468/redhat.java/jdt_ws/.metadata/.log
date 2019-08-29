@@ -20986,3 +20986,12 @@ Command-line arguments:  -data /home/aris/praxis/novice/02-02/latihan/Testing/Us
 
 !ENTRY org.eclipse.jdt.ls.core 1 0 2019-08-27 15:45:22.846
 !MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-08-27 17:01:11.128
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-08-27 17:01:50.320
+!MESSAGE Parent process stopped running, forcing server exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2019-08-27 17:01:50.320
+!MESSAGE Shutdown received... waking up main thread

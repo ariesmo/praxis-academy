@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleThreads",
+            "request": "launch",
+            "mainClass": "Lat1.SimpleThreads",
+            "projectName": "Lat1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SleepMessages",
+            "request": "launch",
+            "mainClass": "Lat1.SleepMessages",
+            "projectName": "Lat1"
+        }
+    ]
+}

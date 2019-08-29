@@ -79,3 +79,11 @@ fatal: no upstream configured for branch 'master'
 > git show :novice/01-04/latihan/Bicycle/src/main/java/Bicycle/MountainBike.java
 > git show :novice/01-04/latihan/Bicycle/src/test/java/Bicycle/MountainBikeTest.java
 > git ls-files --stage -- novice/01-04/latihan/Bicycle/src/test/java/Bicycle/
+> git show :novice/01-04/latihan/Bicycle/src/test/java/Bicycle/MountainBikeTest.java
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
