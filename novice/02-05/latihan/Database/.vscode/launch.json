@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - wey",
+            "request": "launch",
+            "mainClass": "Database.wey",
+            "projectName": "Database"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestIn",
+            "request": "launch",
+            "mainClass": "Database.TestIn",
+            "projectName": "Database"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Insert",
+            "request": "launch",
+            "mainClass": "Database.Insert",
+            "projectName": "Database"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Connect",
+            "request": "launch",
+            "mainClass": "Database.Connect",
+            "projectName": "Database"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Database.App",
+            "projectName": "Database"
+        }
+    ]
+}
