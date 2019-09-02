@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertData",
+            "request": "launch",
+            "mainClass": "LatDB.InsertData",
+            "projectName": "LatDB"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Connect",
+            "request": "launch",
+            "mainClass": "LatDB.Connect",
+            "projectName": "LatDB"
+        }
+    ]
+}
