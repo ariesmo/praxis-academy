@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ApacheHttpRestClient1",
+            "request": "launch",
+            "mainClass": "com.http.simple.ApacheHttpRestClient1",
+            "projectName": "http-simple"
+        }
+    ]
+}
