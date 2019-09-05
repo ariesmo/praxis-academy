@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <script src="" onclick=""></script>
+    <title>Latihan Javascript</title>
+</head>
+
+<body>
+    <h2>What Can JavaScript Do?</h2>
+    <p id="demo">Javascript can change HTML Content</p>
+    <button type="button" onclick="document.getElementById('demo').innerHTML = 'Hello JavaScript'">Click Me!</button>
+    <br>
+    <p>============================================</p>
+    <br>
+    <h1>A Web Page</h1>
+    <p id="demo1">A Paragraph</p>
+    <button type="button" onclick="myFunction()">Try It!</button>
+    <br>
+    <p>============================================</p>
+    <br>
+    <h2>Javascript Functions</h2>
+    <p>This example calls a function which performs a calculation, and returns the result</p>
+
+    <p id="demo2"></p>
+
+    <br>
+    <p>============================================</p>
+    <br>
+    <h2>Javascript Object</h2>
+    <p id="demo3"></p>
+    <br>
+    <p>============================================</p>
+    <br>
+    <p>Click the button to display the date.</p>
+    <button onclick="displayDate()">The time is?</button>
+    <p id="demo4"></p>
+    <br>
+    <p>============================================</p>
+    <br>
+    <h2>Javascript Arrays</h2>
+    <p>The best way to loop through an array is using a standard for loop</p>
+    <p id="demo5"></p>
+    <br>
+    <p>============================================</p>
+    <br>
+    <h2>Javascript Array Sort</h2>
+    <button onclick="myAlphabet()">Sort Alphabetically</button>
+    <button onclick="myNumerical">Sort Numerically</button>
+    <p id="demo6"></p>
+    <br>
+    <p>============================================</p>
+    <br>
+    <h2>Store and retrieve data from local storage</h2>
+    <p id="demo7"></p>
+    <br>
+    <p>============================================</p>
+    <br>
+    <script>
+        function myFunction() {
+            document.getElementById("demo1").innerHTML = "Paragraph changed.";
+        }
+        function myFunctionMultiply(p1, p2) {
+            return p1 * p2;
+        }
+        document.getElementById("demo2").innerHTML = myFunctionMultiply(4, 3);
+
+        // create an object
+        var person = {
+            firstName: "Jhon",
+            lastName: "Doe",
+            age: 50,
+            eyeColor: "blue",
+            // fullName: function() {
+            //     return this.firstName + " " + this.lastName;
+            // }
+        };
+
+        // display some data from the object;
+        document.getElementById("demo3").innerHTML = person.firstName + " " + person.lastName + " is " + person.age + " years old. ";
+
+        function displayDate() {
+            document.getElementById("demo4").innerHTML = Date();
+        }
+
+        var fruits, text, fLen, i;
+        fruits = [
+            "Banana", "Orange", "Apple", "Mango"
+        ];
+        fLen = fruits.length;
+
+        text = "<ul>";
+        for (i = 0; i < fLen; i++) {
+            text += "<li>" + fruits[i] + "</li>";
+        }
+        text += "</ul>";
+        document.getElementById("demo5").innerHTML = text;
+
+        var points = [40, 100, 1, 5, 25, 10];
+        document.getElementById("demo6").innerHTML = points;
+
+        function myAlphabet() {
+            points.sort();
+            document.getElementById("demo6").innerHTML = points;
+        }
+
+        function myNumerical() {
+            points.sort(function (a, b) { return 0.5 - Math.random() });
+            document.getElementById("demo6").innerHTML = points;
+        }
+
+        var myObj, myJSON, text, obj;
+
+        // Storing data
+        myObj = {
+            "name": "Jhon",
+            "age": 31,
+            "city": "New York"
+        };
+        myJSON = JSON.stringify(myObj);
+        localStorage.setItem("testJSON", myJSON);
+
+        // Retrieving data
+        texts = localStorage.getItem("testJSON");
+        obj = JSON.parse(texts);
+        document.getElementById("demo7").innerHTML = obj.name;
+    </script>
+</body>
+
+</html>
