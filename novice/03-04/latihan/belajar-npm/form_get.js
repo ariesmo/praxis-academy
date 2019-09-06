@@ -12,8 +12,8 @@ http.createServer(function (req, res) {
         if (keyword) {
             // Ambil data dari form dengen method GET
             res.writeHead(200, { 'Content-Type': 'text/html' });
-            res.write("<h3>Search Eesults : </h3>");
-            res.write("<p>Anda mencari : </p>");
+            res.write("<h3>Search Results : </h3>");
+            res.write("<p>Anda mencari : </p><b>" + keyword + "</b>");
             res.write("<pre>Tidak ada hasil! Maaf website ini masih dalam pengembangan</pre>");
             res.end("<a href='/search/'>Kembali</a>");
         } else {
@@ -30,6 +30,6 @@ http.createServer(function (req, res) {
             });
         }
     }
-}).listen(8080);
+}).listen(8000);
 
-console.log('Server is running on http://localhost:8080');
+console.log('Server is running on http://localhost:8000');

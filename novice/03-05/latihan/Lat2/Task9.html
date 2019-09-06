@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Javascript</title>
+</head>
+
+<body>
+    <h2>Jvascript Basic</h2>
+    <p>===============================================</p>
+
+    <script>
+        alert("Task Logical Operators");
+
+        let userName = prompt("Who's there ? ");
+
+        if (userName == 'Admin') {
+            let pass = prompt('Password ?');
+
+            if (pass == 'TheMaster') {
+                alert('Welcome!');
+            } else if (pass == '' || pass == null) {
+                alert('Cenceled');
+            } else {
+                alert('Wrong password');
+            }
+        } else if (userName == '' || userName == null) {
+            alert('Cenceled');
+        } else {
+            alert("I don't know you");
+        }
+    </script>
+
+</body>
+
+</html>

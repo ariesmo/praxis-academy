@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Javascript</title>
+</head>
+
+<body>
+    <h2>Jvascript Basic</h2>
+    <p>===============================================</p>
+
+    <script>
+
+        var tanya = true;
+        while (tanya) {
+
+            var kata = prompt("Masukkan kata dalam bahasa inggris", 'Selamat Pagi, Selamat Siang, Selamat Sore, Selamat Malam');
+
+            let map = new Map();
+            map.set('Selamat Pagi', 'Good Morning');
+            map.set('Selamat Siang', 'Good Afternoon');
+            map.set('Selamat Sore', 'Good Evening');
+            map.set('Selamat Malam', 'Good Night');
+
+            switch (kata) {
+                case 'Selamat Pagi':
+                    alert('Bahasa Inggris untuk Selamat Pagi adalah : ' + map.get('Selamat Pagi'));
+                    break;
+                case 'Selamat Siang':
+                    alert('Bahasa Inggris untuk Selamat Siang adalah : ' + map.get('Selamat Siang'));
+                    break;
+                case 'Selamat Sore':
+                    alert('Bahasa Inggris untuk Selamat Sore adalah : ' + map.get('Selamat Sore'));
+                    break;
+                case 'Selamat Malam':
+                    alert('Bahasa Inggris untuk Selamat Malam adalah : ' + map.get('Selamat Malam'));
+                    break;
+                default:
+                    alert('Arti belum tersedia.');
+                    break;
+            }
+            tanya = confirm('Mau dilanjutkan ? ');
+        }
+        alert('Terima kasih');
+    </script>
+
+</body>
+
+</html>
