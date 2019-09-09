@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Javascript
+    </title>
+</head>
+
+<body>
+    <h2>Javascript Prototype</h2>
+    <p>=========================================</p>
+    <p id="demo"></p>
+
+    <script>
+        function Animal(className) {
+            this.className = className;
+        }
+
+        //    add method to Animal prototype
+        Animal.prototype.getClass = function () {
+            return "Animasi class is : " + this.className;
+        };
+
+        function Dog(name) {
+            // execute parent contructor
+            Animal.call(this, 'Animal');
+            // Add new property
+            this.name = name;
+        }
+
+        // save animal prototype in Dog prototype
+        Dog.prototype = Object.create(Animal.prototype);
+
+        // add constructor reference on dog prototype
+        Dog.prototype.constructor = Dog;
+
+        // add method to Dog prototype
+        Dog.prototype.getName = function () {
+            return this.name;
+        }
+
+        // create dog object
+        var d = new Dog("Tommy");
+
+        // show dog
+        console.log(d);
+        // show dog prototype
+        console.log(d.getClass);
+    </script>
+</body>
+
+</html>
