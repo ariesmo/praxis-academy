@@ -1,0 +1,17 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "\"latihan asyncronous javascript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "aris mulyadi",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
