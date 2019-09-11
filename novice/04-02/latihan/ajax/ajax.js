@@ -5,7 +5,7 @@ function requestAjax(callback) {
     var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
     var xhr = new XMLHttpRequest();
     // set target request
-    xhr.open('GET', 'https://jsonplaceholder.typicode.com/users/2')
+    xhr.open('GET', 'https://jsonplaceholder.typicode.com/users/1')
 
     // terapkan callback
     xhr.onload = function () {

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <script>
+        function promptNumber(question) {
+            let result = Number(prompt(question));
+            if (Number.isNaN(result)) return null;
+            else return result;
+        }
+
+        console.log(promptNumber("how many trees do you see?"));
+    </script>
+</body>
+
+</html>

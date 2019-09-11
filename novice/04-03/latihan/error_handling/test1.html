@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <script>
+        function f() {
+            try {
+                alert('start');
+                return "result";
+            } catch (e) {
+
+            } finally {
+                alert('cleanup');
+            }
+        }
+        f();
+
+        // atau
+
+        function d() {
+            try {
+                alert('start');
+                throw new Error("an error");
+            } catch (e) {
+                if ("can't handle the error") {
+                    throw e;
+                }
+            } finally {
+                alert('cleanup!');
+            }
+        }
+
+        d();
+    </script>
+</body>
+
+</html>

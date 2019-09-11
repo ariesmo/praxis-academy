@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+
+<body>
+    <section class="section">
+        <div class="container">
+            <h1 class="title">
+                Hello World
+            </h1>
+            <p class="subtitle">
+                My first website with <strong>Bulma</strong>!
+            </p>
+            <div>
+                <label for="item">Enter a new item:</label>
+                <input type="text" name="item" id="item">
+                <button onclick="myFunction()">Add item</button>
+            </div>
+            <br>
+            <div>
+                <ol id="myList">
+                    <!-- <button onclick="myDelete()">Delete</button> -->
+                </ol>
+            </div>
+
+        </div>
+    </section>
+
+    <script>
+        function myFunction() {
+            // var x = document.getElementById("item").value;
+            // document.getElementById("demo").innerHTML = x;
+            var a = document.getElementById("item").value;
+            var x = document.createElement("LI");
+            var t = document.createTextNode(a);
+            x.appendChild(t);
+
+            document.getElementById("myList").appendChild(x);
+        }
+    </script>
+</body>
+
+</html>

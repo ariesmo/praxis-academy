@@ -1,0 +1,17 @@
+{
+  "name": "lat_bulma",
+  "version": "1.0.0",
+  "description": "latihan framework bulma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "aris mulyadi",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.5"
+  }
+}
