@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+  </head>
+
+  <body>
+    <!-- <input v-model="message" placeholder="edit me" />
+    <p>Message is : {{ message }}</p> -->
+
+    <div id="app">
+      <input
+        v-bind:value="message"
+        v-on:input="_onInputMessage"
+        placeholder="type your words here.."
+      />
+      <p>{{ message }}</p>
+    </div>
+
+    <script src="js/vue.js"></script>
+    <script>
+      var app = new Vue({
+        el: "#app",
+        data: function() {
+          return {
+            message: ""
+          };
+        },
+        methods: {
+          _onInputMessage: function($event) {
+            this.message = $event.target.value;
+            // Go update other inputs here
+          }
+        }
+      });
+    </script>
+  </body>
+</html>

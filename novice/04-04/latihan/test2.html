@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <div id="demo">{{ lastName }}</div>
+
+    <script src="js/vue.js"></script>
+    <script>
+        var vm = new Vue({
+            el: '#demo',
+            data: {
+                firstName: 'Foo',
+                lastName: 'Bar',
+                fullName: 'Foo Bar'
+            },
+            watch: {
+                firstName: function (val) {
+                    this.fullName = val + + this.lastName
+                },
+                lastName: function (val) {
+                    this.fullName = this.firstName + + val
+                }
+            }
+        })
+
+    </script>
+</body>
+
+</html>

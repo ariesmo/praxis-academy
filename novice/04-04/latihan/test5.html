@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+    <!-- <ul id="example">
+        <li v-for="value in object">
+            {{ value }}
+        </li>
+    </ul> -->
+
+    <div id="example">
+        <div v-for="(value, name, index) in object">
+            {{ index }}, {{ name }}: {{ value }}
+        </div>
+    </div>
+
+
+    <script src="js/vue.js"></script>
+    <script>
+        new Vue({
+            el: '#example',
+            data: {
+                object: {
+                    title: 'How to do lists in vue',
+                    author: 'Jane Doe',
+                    publishedAt: '2016-04-10'
+                }
+            }
+        })
+
+    </script>
+</body>
+
+</html>

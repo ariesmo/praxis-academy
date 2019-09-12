@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+
+<body>
+
+    <ul id="example">
+        <li v-for="n in even(numbers)">{{ n }}</li>
+    </ul>
+
+
+
+    <script src="js/vue.js"></script>
+    <script>
+        new Vue({
+            el: '#example',
+            data: {
+                numbers: [1, 2, 3, 4, 5]
+            },
+            methods: {
+                even: function (numbers) {
+                    return numbers.filter(function (number) {
+                        return number % 2 === 0
+                    })
+                }
+            }
+        })
+
+    </script>
+</body>
+
+</html>
