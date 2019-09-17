@@ -1,1 +1,3 @@
-rootProject.name="inventory"
+rootProject.name = "inventory"
+
+include ("books", "inventory", "gateway")

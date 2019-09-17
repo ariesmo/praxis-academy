@@ -1,1 +1,3 @@
 rootProject.name="books"
+
+include 'books', 'inventory', 'gateway'
